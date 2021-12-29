@@ -21,7 +21,7 @@
 
 
 
-- :telescope: I'm currently working in Raiffeisen Bank :alien:
+- :telescope: I'm currently working in Sberdevices :alien:
 - :hourglass_flowing_sand: Experimenting with TS and React
 - :microscope: Always ready to collaborate for Dev Experiments
 - :mailbox: Reach out to me at my social media handles: <br>
