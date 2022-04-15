@@ -20,8 +20,6 @@
 <a href="https://webpack.js.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/js_webpack/js_webpack-icon.svg" alt="webpack" width="40" height="40"/> </a>
 
 
-
-- :telescope: I'm currently working in Sberdevices :alien:
 - :hourglass_flowing_sand: Experimenting with TS and React
 - :microscope: Always ready to collaborate for Dev Experiments
 - :mailbox: Reach out to me at my social media handles: <br>
