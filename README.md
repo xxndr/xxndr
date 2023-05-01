@@ -23,4 +23,4 @@
 - :hourglass_flowing_sand: Experimenting with TS and React
 - :microscope: Always ready to collaborate for Dev Experiments
 - :mailbox: Reach out to me at my social media handles: <br>
-[![Linkedin Badge](https://img.shields.io/badge/-a.malin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aleksandr-malin-7639661a4/)](https://www.linkedin.com/in/aleksandr-malin-7639661a4/) 
+[![Linkedin Badge](https://img.shields.io/badge/-a.malin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aleksandr-malin-7639661a4/)](https://www.linkedin.com/in/aleksandr-malin/) 
